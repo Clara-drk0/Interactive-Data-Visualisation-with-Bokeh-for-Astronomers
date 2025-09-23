@@ -11,4 +11,4 @@ Interactive Data Visualisation with Bokeh: A Beginner’s Tutorial
 Abstract:
 Clear and interactive visualisations are a useful tool for data analysis, particularly for large and cross-correlated databases. Bokeh is a Python library that enables the creation of customised, interactive plots for the web (and for your personal notebooks), without requiring JavaScript. This tutorial introduces the fundamentals of Bokeh, focusing on how to build basic, interactive plots. Participants will learn how to work with Bokeh’s core components, such as figures, glyphs, layouts, and data sources, and will gain hands-on experience in creating dynamic dashboards. Participants are invited to discuss particular uses for their respective science cases.
 
-[Basic_Interactive_Plot.png]
+![](Basic_Interactive_Plot.png)
