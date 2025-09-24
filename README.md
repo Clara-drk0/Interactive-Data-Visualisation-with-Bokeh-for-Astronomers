@@ -43,7 +43,7 @@ This question has also been answered in the [Bokeh Community Forum](https://disc
 
 ##### Q2. Is it posible to link a different plot to the points to display it when hovering?
 
-It is. You can link a locally stored image to each point in a dataset, pass the Pathname to Bokeh and make it display the image when hovering over the plot. Find an example in the following jupiter notebook: More_Advances_Examples_of_Bokeh_for_Astronomy.ipynb
+It is. You can link a locally stored image to each point in a dataset, pass the Pathname to Bokeh and make it display the image when hovering over the plot. Find an example in the following jupiter notebook: [More_Advanced_Examples_of_Bokeh_for_Astronomy.ipynb](More_Advanced_Examples_of_Bokeh_for_Astronomy)
 
 The user will need to provide their own data for this example. An useful discussed implementations is linking spectra to points in a temporal series. 
 
